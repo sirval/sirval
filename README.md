@@ -51,6 +51,11 @@ src="https://img.shields.io/github/followers/sirval?logo=github&style=for-the-ba
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" width="36" height="36" alt="FastAPI" />
 </a>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
 </p>
 
 ### Skills -  Web3
