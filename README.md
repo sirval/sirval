@@ -13,6 +13,8 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: Low key lover of board games, action movies, and good music😄
 
+https://github-profile-trophy.vercel.app/?username=sirval&theme=onedark
+
 ### 📫 How to reach me?:
 - Facebook - https://www.facebook.com/ohuka.ikennavalentine
 - Linkedin - https://www.linkedin.com/in/ohukaiv/
@@ -50,10 +52,6 @@ src="https://img.shields.io/github/followers/sirval?logo=github&style=for-the-ba
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" width="36" height="36" alt="FastAPI" />
 </a>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 </p>
