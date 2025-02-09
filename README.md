@@ -43,7 +43,7 @@ I’m looking to collaborate on impactful **Web2 & Web3** projects. Feel free to
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ohuka.ikennavalentine)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ohukaiv/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/OhukaValentine)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%231A202C.svg?style=flat&logo=firefox&logoColor=white)](https://ohukaiv.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%231A202C.svg?style=flat&logo=firefox&logoColor=white)](https://ohukaiv.declut.com.ng/)
 
 ---
 
