@@ -44,6 +44,13 @@ src="https://img.shields.io/github/followers/sirval?logo=github&style=for-the-ba
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>&nbsp;
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python" />
+</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" width="36" height="36" alt="FastAPI" />
+</a>
+
 </p>
 
 ### Skills -  Web3
