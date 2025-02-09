@@ -33,7 +33,7 @@ I am a passionate developer specializing in Web2 and Web3 technologies. I enjoy 
 ---
 
 ### 📖 Currently Learning
-- Web Development with **Golang**
+- API Development with **Python**
 - Advanced Web3 Security & Smart Contract Auditing
 
 ### 🤝 Let's Collaborate
